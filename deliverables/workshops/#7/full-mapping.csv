@@ -1,0 +1,14 @@
+EntrezID,UniProtID,Reviewed,UniProtName,Protein names,Gene Names,Organism,Length
+258469,Q0VEL5,unreviewed,Q0VEL5_MOUSE,Olfactory receptor,Or2h2 Olfr90,Mus musculus (Mouse),310
+5008,P13725,reviewed,ONCM_HUMAN,Oncostatin-M (OSM),OSM,Homo sapiens (Human),252
+5008,B5MCX1,unreviewed,B5MCX1_HUMAN,Oncostatin M,OSM,Homo sapiens (Human),231
+7078,P35625,reviewed,TIMP3_HUMAN,Metalloproteinase inhibitor 3 (Protein MIG-5) (Tissue inhibitor of metalloproteinases 3) (TIMP-3),TIMP3,Homo sapiens (Human),211
+10236,O43390,reviewed,HNRPR_HUMAN,Heterogeneous nuclear ribonucleoprotein R (hnRNP R),HNRNPR HNRPR,Homo sapiens (Human),633
+10236,B4DMB1,unreviewed,B4DMB1_HUMAN,"cDNA FLJ53358, highly similar to Heterogeneous nuclear ribonucleoprotein R",,Homo sapiens (Human),595
+10236,B4DMD1,unreviewed,B4DMD1_HUMAN,"cDNA FLJ53360, highly similar to Heterogeneous nuclear ribonucleoprotein R",,Homo sapiens (Human),473
+10236,B4DT28,unreviewed,B4DT28_HUMAN,"Heterogeneous nuclear ribonucleoprotein R (cDNA FLJ54544, highly similar to Heterogeneous nuclear ribonucleoprotein R)",HNRNPR HNRPR hCG_38907,Homo sapiens (Human),494
+10236,Q0VGD6,unreviewed,Q0VGD6_HUMAN,HNRPR protein,HNRPR,Homo sapiens (Human),607
+10236,Q6MZS5,unreviewed,Q6MZS5_HUMAN,Uncharacterized protein DKFZp686A13234,DKFZp686A13234,Homo sapiens (Human),613
+8906,O75843,reviewed,AP1G2_HUMAN,AP-1 complex subunit gamma-like 2 (Gamma2-adaptin) (G2ad),AP1G2,Homo sapiens (Human),785
+8906,Q86U03,unreviewed,Q86U03_HUMAN,Full-length cDNA clone CS0DI003YF22 of Placenta of Homo sapiens (human),,Homo sapiens (Human),404
+8906,Q86V28,unreviewed,Q86V28_HUMAN,AP-1 complex subunit gamma,,Homo sapiens (Human),640
