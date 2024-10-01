@@ -1,1 +1,7 @@
-# EBI-Tools---Bardet-Biedl-syndrome
+# EBI Tools Masters course @ Universidad de los Andes - Bardet Biedl Syndrome
+
+This bioinformatics project is made in conjunction with the teaching staff of the course of EBI tools at Universidad de los Andes 2024 for the first semester of the year.
+
+Research questions: Could the phenotypic variability observed in patients with Bardet-Biedl Syndrome (BBBS) be explained by interactions between different genes associated with the BBsome assembly chaperone complex, especially in cell signaling pathways?
+
+Bardet-Biedl syndrome [BBS] is a rare hetero genetic disease associated with hyperphagia (central obesity), mental retardation, renal dysfunction, hypogonadism and red cone dystrophy, however, new clinical conditions have been found to affect patients such as neurological, communication and language dysfunctions, facial dysmorphia and dental anomalies (Beales et al... 1999), 1999) Additionally, this disease causes a ciliopathy expressed in multiple body systems such as muscular, visual and functioning and the main genes causing this syndrome (BBS 1 to 10) also have an incidence in the appearance of other syndromes such as Joubert's syndrome which is also multisystemic, so its multisystemic variability and its incidence in other genes could help to find better treatments for different people affected by these syndromes,  Likewise, as it is a slowly progressive disease, its symptoms are usually seen at an age of around 9 years on average and the disease will have already advanced a lot by this point (Beales et al. ,  1999), so knowing the ways in which various patterns contribute to this phenotypic variability could help to improve diagnoses.
